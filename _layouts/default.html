@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <script src="https://kit.fontawesome.com/1a4b86cfe5.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="../reset.css" />
+  <link rel="stylesheet" href="../danes_conf.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="{{ "/assets/favicon.png" | relative_url }}" type="image/png">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="#submissions">Submissions</a>
+      <a href="#important-dates">Dates</a>
+      <a href="#program">Program</a>
+      <a href="#when-and-where">When & Where</a>
+      <a href="#links">Links</a>
+      <a href="#contact">Contact</a>
+      <span class="slider"></span>
+    </div>
+  </nav>
+
+  <header>
+    <img src="../assets/DANES2024_logo.png" alt="logo">
+    <h1>{{ page.title }}
+    </h1>
+  </header>
+
+  {{ content }}
+
+  <!-- <center>
+    <img src="{{ "/assets/DigPasts_logo.jpg" | relative_url }}" alt="Digital Pasts Lab Logo">
+    <img src="{{ "/assets/ariel_university.logo.jpg" | relative_url }}" alt="Ariel University Logo">
+    <img src="{{ "/assets/TAD.png" | relative_url }}" alt="Tel Aviv University Logo">
+    <img src="{{ "/assets/Hebrew_University_new_Logo.jpg" | relative_url }}" alt="Hebrew University of Jerusalem Logo">
+  </center> -->
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.6.0/mapbox-gl.css' rel='stylesheet'>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.6.0/mapbox-gl.js'></script>
+
+</body>
+</html>
