@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <script src="https://kit.fontawesome.com/1a4b86cfe5.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="../reset.css" />
-  <link rel="stylesheet" href="../danes_conf.css" />
+  <link rel="stylesheet" href="{{ "/reset.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/danes_conf.css" | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
@@ -28,9 +28,8 @@
   </nav>
 
   <header>
-    <img src="../assets/DANES2024_logo.png" alt="logo">
-    <h1>{{ page.title }}
-    </h1>
+    <img src="{{ "/assets/DANES2024_logo.png" | relative_url }}" alt="logo">
+    <h1>{{ page.title }}</h1>
   </header>
 
   {{ content }}
