@@ -44,13 +44,16 @@ body {
 }
 
 /* add padding */
-p, ul, ol, h2, h3, h4, h5, h6 {
-  padding: 0 20vw;
+ol, h2, h3, h4, h5, h6 {
+  padding: 1.2em 20vw 0;
 }
 
 p {
-  padding-bottom: 5px;
+  padding: 0.8em 20vw 0.4em;
 }
+
+ul {
+  padding: 0 24vw;
 
 /* change fonts */
 p, ul, ol, a {
