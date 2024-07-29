@@ -18,19 +18,24 @@ We invite students and scholars to present their original papers in the conferen
 
 ## Submissions
 
-To be updated...
+We welcome the following types of submissions:
+- Long talks (20 minutes): completed work or advanced work; abstract limit 800 words
+- Short talks (10 minutes): work in progress; abstract limit 400 words
+- Poster presentations: work in progress; abstract limit 400 words
+- Workshops (60-90 minutes): interactive sessions teaching attendants how to apply a certain method or how to use a specific tool or platform; abstract limit 800 words
 
 ## Important Dates
 
-To be updated...
+The deadline for abstract submission is 30 September 2024.
 
 ## Program
 
-To be updated...
+To be announced...
 
 ## When and Where
 
-To be updated...
+5-6 December 2024, online event.
+More details will follow!
 
 ## Links
 
