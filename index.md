@@ -62,7 +62,7 @@ On behalf of the [OpenDANES](https://opendanes.org/nav/about.html#editorial-boar
 * [Marine Béranger](https://orcid.org/0009-0008-6897-4537){:target="_blank"} (FU Berlin)
 * [Shai Gordin](https://orcid.org/0000-0002-8359-382X){:target="_blank"} (Ariel University / Open University of Israel)
 * [Eliese-Sophia Lincke](https://www.wikidata.org/wiki/Q115792216){:target="_blank"} (FU Berlin)
-* [Hubert Mara](https://orcid.org/0000-0002-2004-4153){:target="_blank"} (MLU-Halle Wittenberg in transition to FU Berlin)
+* [Hubert Mara](https://orcid.org/0000-0002-2004-4153){:target="_blank"} (FU Berlin)
 * [Aleksi Sahala](https://orcid.org/0000-0002-4255-3872){:target="_blank"} (University of Helsinki)
 
 <!-- ---------------------------
