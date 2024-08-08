@@ -5,15 +5,15 @@ title: Digital Ancient Near Eastern Studies Conference
 
 We are excited to announce that the [second Digital Ancient Near Eastern Studies conference (#DANES24)](https://digitalpasts.github.io/DANES2024/){:target="_blank"} will take place as a **virtual event on 5-6 December** 2024 during the afternoon hours CET.
 
-This year’s theme is "**Digital Resources of the Ancient Near East: Creation, Application Studies, and Maintenance**". We particularly invite talks about using and expanding digital datasets and databases related to the ancient Near East and/or talks about the creation, maintenance, and development of such resources.
+This year’s theme is "**Digital Resources of the Ancient Near East: Creation, Application Studies, and Maintenance**". We particularly invite talks about using and expanding digital datasets and databases related to the ancient Near East, as well as talks on the creation, maintenance, and development of such resources.
 
 The DANES conferences series is one of [several activities of the DANES network](https://opendanes.org/pages/Digital%20Ancient%20Near%20Eastern%20Studies%20-%20A%20Transition%20to%20Arts%20and%20Crafts.html){:target="_blank"}, whose purpose is to establish and maintain a community of practitioners of digital and computational methods for the study of the ancient world.
 
 The exploration of texts and artifacts as data using the plethora of computational tools and techniques available today requires additional training outside one’s area of expertise. This interdisciplinary approach has been growing rapidly in recent years and developing its own best practice standards and conventions that require familiarization with several fields of study.
 
-The purpose of the DANES conferences is to highlight recent work on the combination of the two worlds, showcasing current best practice, informing the community about ongoing research of its members, and introducing more students and scholars of the ancient world to new approaches made possible with current technological developments.
+The purpose of the DANES conferences is to highlight recent work that bridges these diverse fields, showcasing current best practice, informing the community about ongoing research among its members, and introducing more students and scholars of the ancient world to innovative approaches made possible with current technological developments.
 
-In particular, this year's theme is intended to showcase the research that is only possible when sources are made available digitally and as openly as possible, and to highlight the increasing amount of work our community does in creating and maintaining resources and tools.
+In particular, this year's theme is intended to showcase the research that is only possible when sources are made available digitally and as openly as possible. It also aims to highlight the increasing amount of work our community does in creating and maintaining resources and tools.
 
 The conference will include additional invited keynote speakers, a Q&A session, and virtual hangout sessions.
 
@@ -34,6 +34,8 @@ Methods used and topics can include, but are not limited to, the following in al
 * Applying Linked Open data (LOD) conventions
 * Computer vision and optical character recognition (OCR) for ancient scripts
 * Critical debates on the use of computational methods for ancient sources
+* Database creation and web technologies
+* Graph theory and network analysis
 * Machine learning for low resource datasets
 * Pedagogical applications of digital resources and tools
 
