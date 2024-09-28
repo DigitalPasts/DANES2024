@@ -19,7 +19,7 @@ The conference will include additional invited keynote speakers, a Q&A session, 
 
 ## Important Dates
 
-* Deadline for abstracts is **30 September** 2024.
+* <del>Deadline for abstracts is **30 September** 2024</del>. Deadline for abstract submission has been extended to **8 October**!
 * Notification for presenters will be provided by **7 November** 2024.
 * The conference will take place on **5-6 December** 2024.
 
