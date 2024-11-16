@@ -56,12 +56,24 @@ ul {
   padding: 0 24vw;
 }
 
+table {
+  padding: 0.8em 20vw 0.4em;
+}
+
+td {
+  vertical-align: top;
+}
+
+.time {
+  width: 150px;
+}
+
 /* change fonts */
-p, ul, ol, a {
+p, ul, ol, a, td {
   font-family: "Didact Gothic", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 h1 {
@@ -125,7 +137,10 @@ select {
 }
 
 @media (max-width: 600px) {
-  p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  p, ul, ol, h1, h2, h3, h4, h5, h6, table {
     padding: 0 7.5vw;
+  }
+  .time {
+    width: 50px;
   }
 }
