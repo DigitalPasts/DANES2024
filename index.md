@@ -131,7 +131,7 @@ Christian Gaubert (CNRS) and Antoine Jacquet (Collège de France)
    </td>
    <td><em>Creating Digital Datasets from Legacy Records: The Example of the ELAMortuary Burial Database</em>
 <br>
-Yasmina Wicks (University of Sydney)
+Yasmina Wicks (University of Naples "L'Orientale")
    </td>
   </tr>
   <tr>
