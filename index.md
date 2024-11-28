@@ -31,9 +31,9 @@ All hours are shown in Central European Time.
 
 For more detailed information on the talks, posters, and workshops, see the conference's Book of Abstracts which is published on Zenodo. It can be cited as follows:
 
-Romach, Avital and Zadworny, Piotr (eds.) 2024. *DANES 2024: Book of Abstracts*. Zenodo. doi: [10.5281/zenodo.14174072](https://doi.org/10.5281/zenodo.14174072){:target="_blank"}.
+Romach, Avital and Zadworny, Piotr (eds.) 2024. *DANES 2024: Book of Abstracts*. Zenodo. doi: [10.5281/zenodo.14174071](https://doi.org/10.5281/zenodo.14174071){:target="_blank"}.
 
-<a href="https://doi.org/10.5281/zenodo.14174072" target="_blank"><img style="height:20px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14174072.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.14174071" target="_blank"><img style="height:20px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14174071" alt="DOI"></a>
 
 ### Wednesday, December 4: Pre-Conference Workshops
 
