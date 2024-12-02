@@ -17,7 +17,9 @@ In particular, this year's theme is intended to showcase the research that is on
 
 ## Registration
 
-Registration is open through [Eventbrite](https://www.eventbrite.com/e/danes-2024-conference-tickets-1046299920227?aff=oddtdtcreator){:target="_blank"}! Please register to receive zoom links.
+Registration is open through [Eventbrite](https://www.eventbrite.com/e/danes-2024-conference-tickets-1046299920227?aff=oddtdtcreator){:target="_blank"}!
+
+**The zoom link has been sent to registered participants over email**--please [contact the conference organizers](#contact) if you have not received it.
 
 ## Important Dates
 
