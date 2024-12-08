@@ -304,7 +304,7 @@ Na'ama Pat-El, Danny Law, and Todd Krause (University of Texas, Austin)
    </td>
    <td><em>Musical Instruments in Ancient Mesopotamia (MIAM): A Semantic Media Wiki Database and Lexicon</em>
 <br>
-Dahlia Shehata (University of Würzburg)
+Dahlia Shehata and Benedetta Bellucci (University of Würzburg)
    </td>
   </tr>
   <tr>
