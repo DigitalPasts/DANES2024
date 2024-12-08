@@ -17,15 +17,13 @@ In particular, this year's theme is intended to showcase the research that is on
 
 ## Registration
 
-Registration is open through [Eventbrite](https://www.eventbrite.com/e/danes-2024-conference-tickets-1046299920227?aff=oddtdtcreator){:target="_blank"}!
-
-**The zoom link has been sent to registered participants over email**--please [contact the conference organizers](#contact) if you have not received it.
+<del>Registration is open through [Eventbrite](https://www.eventbrite.com/e/danes-2024-conference-tickets-1046299920227?aff=oddtdtcreator){:target="_blank"}!</del> Registration is closed!
 
 ## Important Dates
 
 * <del>Deadline for abstracts is **30 September** 2024. Deadline for abstract submission has been extended to **8 October**!</del> Submission is closed!
 * <del>Notification for presenters will be provided by **7 November** 2024.</del> Presenters were notified!
-* The conference will take place on **4-6 December** 2024.
+* <del>The conference will take place on **4-6 December** 2024.</del>
 
 ## Program
 
@@ -33,9 +31,9 @@ All hours are shown in Central European Time.
 
 For more detailed information on the talks, posters, and workshops, see the conference's Book of Abstracts which is published on Zenodo. It can be cited as follows:
 
-Romach, Avital and Zadworny, Piotr (eds.) 2024. *DANES 2024: Book of Abstracts*. Zenodo. doi: [10.5281/zenodo.14233500](https://doi.org/10.5281/zenodo.14233500){:target="_blank"}.
+Romach, Avital and Zadworny, Piotr (eds.) 2024. *DANES 2024: Book of Abstracts*. Zenodo. doi: [10.5281/zenodo.14312736](https://doi.org/10.5281/zenodo.14312736){:target="_blank"}.
 
-<a href="https://doi.org/10.5281/zenodo.14233500" target="_blank"><img style="height:20px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14233500.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.14312736" target="_blank"><img style="height:20px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14312736.svg" alt="DOI"></a>
 
 ### Wednesday, December 4: Pre-Conference Workshops
 
